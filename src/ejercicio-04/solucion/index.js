@@ -18,7 +18,7 @@ function esMayorDeEdad(edad) {
 }
 
 // 4. Condicionales anidados con operador lógico para verificar mayor de edad y estudiante.
-const esEstudiante = 20
+const esEstudiante = true
 const edadPersona = 20
 
 if (esMayorDeEdad(edadPersona) && esEstudiante) {
