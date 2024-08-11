@@ -34,7 +34,7 @@ function esVocal(letra) {
 }
 
 // 6. Utiliza la función esVocal.
-const letraCaracter = 'A'
+const letraCaracter = 'E'
 
 if (esVocal(letraCaracter)) {
   console.log(letraCaracter + ' es una vocal')
